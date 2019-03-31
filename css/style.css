@@ -1489,4 +1489,20 @@ nav a#pull {
  	margin: 0px 10px;
  	width: 120%;
  }
+#bimg
+{
+background: url(../img/thumbs/app.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
 
+#bimg2
+{
+background: url(../img/thumbs/driver.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
